@@ -106,4 +106,5 @@ dist
 # Mac lock file
 .DS_Store
 
+# node.lock file
 package-lock.json
